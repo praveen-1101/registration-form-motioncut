@@ -1,2 +1,1 @@
-# registration-form-motioncut
-Registration Form
+# Registration Form
