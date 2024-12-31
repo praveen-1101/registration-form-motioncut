@@ -1,1 +1,2 @@
 # Login & Registration Form
+A simple web application with a login and registration system. This project is designed to help users register for an account and log in using their credentials. It uses HTML, CSS, and JavaScript for the frontend without any backend implementation.
