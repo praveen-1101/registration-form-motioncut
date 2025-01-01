@@ -19,3 +19,5 @@ A simple web application with a login and registration system. This project is d
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 <br>
 <strong>Feel free to customize this project or use it as a starting point for your own login and registration systems!</strong>
+<h3>Contributing</h3>
+We welcome contributions! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Open issues for any bugs or feature requests.
