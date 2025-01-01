@@ -12,3 +12,6 @@ A simple web application with a login and registration system. This project is d
 <h3>Registration</h3>
 <li>Fill in the required fields, such as username, email, and password.</li>
 <li>Ensure the password meets the validation criteria (e.g., length, special characters).</li>
+<h3>Login</h3>
+<li>Enter your registered email and password.</li>
+<li>Click the "Login" button to proceed.</li>
