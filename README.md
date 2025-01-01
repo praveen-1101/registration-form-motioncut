@@ -5,6 +5,6 @@ A simple web application with a login and registration system. This project is d
 <li>Form Validation: Ensures fields are correctly filled before submission.</li>
 <li>Modern UI: Clean and simple interface.</li>
 <h3>Technologies Used</h3>
-<li>HTML: Structure of the web pages.</li>
-<li>CSS: Styling and layout.</li>
-<li>JavaScript: Adding interactivity and form validation.</li>
+<li><strong>HTML</strong>: Structure of the web pages.</li>
+<li><strong>CSS</strong>: Styling and layout.</li>
+<li><strong>JavaScript</strong>: Adding interactivity and form validation.</li>
