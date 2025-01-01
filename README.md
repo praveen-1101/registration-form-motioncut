@@ -15,3 +15,5 @@ A simple web application with a login and registration system. This project is d
 <h3>Login</h3>
 <li>Enter your registered email and password.</li>
 <li>Click the "Login" button to proceed.</li>
+<h3>License</h3>
+This project is licensed under the MIT License. See the `LICENSE` file for details.
