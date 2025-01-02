@@ -23,4 +23,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 <h3>Contact</h3>
 For questions or suggestions, feel free to reach out:
 <li>GitHub: praveen-1101</li>
+<br>
 <strong>Feel free to customize this project or use it as a starting point for your own login and registration systems!</strong>
