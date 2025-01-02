@@ -8,7 +8,7 @@ A simple web application with a login and registration system. This project is d
 <li><strong>HTML</strong>: Structure of the web pages.</li>
 <li><strong>CSS</strong>: Styling and layout.</li>
 <li><strong>JavaScript</strong>: Adding interactivity and form validation.</li>
-<h2>USAGE</h2>
+<h2>Usage</h2>
 <h3>Registration</h3>
 <li>Fill in the required fields, such as username, email, and password.</li>
 <li>Ensure the password meets the validation criteria (e.g., length, special characters).</li>
